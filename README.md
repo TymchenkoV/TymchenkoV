@@ -1,9 +1,6 @@
 ### ***Hi there 👋 My name is Valeriia.***
 
 
-### ***I'm Data Analyst.***
-
-
 + 📊 I like to analyze data, writing formulas, and solving interesting problems.
 + ✨ My passion is creating beautiful visualizations in Power BI.
 + 🧠 I’m constantly learning new things.
